@@ -29,5 +29,5 @@ window.PS_FIREBASE = {
   storageBucket: "pokesurvivorplus.firebasestorage.app",
   messagingSenderId: "381095525108",
   appId: "1:381095525108:web:46b288a58683d7037ebca1",
-  databaseURL: 'https://pokesurvivorplus-default-rtdb.firebaseio.com/'
+  databaseURL: "https://pokesurvivorplus-default-rtdb.firebaseio.com/"
 };
