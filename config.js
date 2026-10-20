@@ -22,4 +22,12 @@
  *   databaseURL: 'https://your-project-default-rtdb.europe-west1.firebasedatabase.app'
  * };
  */
-window.PS_FIREBASE = null;
+window.PS_FIREBASE = {
+  apiKey: "AIzaSyBSOOPnk31mT4WWIeJKdHmZ9TMNi5ifQVk",
+  authDomain: "pokesurvivorplus.firebaseapp.com",
+  projectId: "pokesurvivorplus",
+  storageBucket: "pokesurvivorplus.firebasestorage.app",
+  messagingSenderId: "381095525108",
+  appId: "1:381095525108:web:46b288a58683d7037ebca1",
+  databaseURL: 'https://pokesurvivorplus-default-rtdb.firebaseio.com/'
+};
